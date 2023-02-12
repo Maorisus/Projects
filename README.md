@@ -5,4 +5,5 @@ This reop display data analysis projects
 [Project](https://nbviewer.org/github/Maorisus/Projects/blob/main/Turkey_Earthquakes_06.02.23.ipynb)
 
 #### Evaluating the Possibility of Opening a Robotic Café in LA: Market Study
+[Project](https://nbviewer.org/github/Maorisus/Projects/blob/main/Robot_Run_Cafe.ipynb)|[Presentation]
 
