@@ -20,3 +20,9 @@ Tableau was used to visualize our findings and answer these questions:
 As part of this project, we collaborated with an online store's marketing department to develop hypotheses aimed at increasing sales. Using ICE and RICE, we prioritized the hypotheses based on their potential impact and identified the most promising one. We then conducted an A/B test to compare conversion rates and assess other relevant variables.
 
 [Project](https://nbviewer.org/github/Maorisus/Projects/blob/main/A_B_Test_project.ipynb#5)
+
+### 5.Business Analytics: Yandex.Afisha Server Logs Analysis
+For this project, we will analyze data from Yandex.Afisha's server logs, orders, and marketing expenses. Our objective is to study customer behavior, pinpoint when they begin to make purchases, and determine the amount of revenue generated per customer.
+Our analysis will ultimately help Yandex.Afisha optimize their marketing expenses by identifying the point at which revenue generated surpasses marketing expenses.
+
+[Project](https://nbviewer.org/github/Maorisus/Projects/blob/main/Ynadex.Afisha_Server_Logs_Analysis.ipynb)
