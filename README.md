@@ -8,7 +8,7 @@ The goal of this project is to analyze the product range of an E-commerce store.
 
 Our client is an online store that sells a wide range of household products.
 
-[Project](https://nbviewer.org/github/Maorisus/Projects/blob/ec89296ca24def9ae941a0eb0891651f50aff71e/product_range_analysis_Copy1.ipynb) | [Presentation]
+[Project](https://nbviewer.org/github/Maorisus/Projects/blob/ec89296ca24def9ae941a0eb0891651f50aff71e/product_range_analysis_Copy1.ipynb) | [Presentation](https://drive.google.com/file/d/1BJX9PjovoZhDVTD6fbiQJzCDONjMya6Y/view)
 
 ### 1. Independent Case Study: Turkey Earthquakes, February 2023 
 [Project](https://nbviewer.org/github/Maorisus/Projects/blob/main/Turkey_Earthquakes_06.02.23.ipynb)
