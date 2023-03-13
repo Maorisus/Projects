@@ -16,7 +16,7 @@ An initial overview of the US city of Los Angeles dining industry is the goal of
 
 [Project](https://nbviewer.org/github/Maorisus/Projects/blob/main/Robot_Run_Cafe.ipynb) | [Presentation](https://www.canva.com/design/DAFORva-wFs/RTeBhd9uQToxUsaESPr8Bw/view?utm_content=DAFORva-wFs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-### 3. Trending Video History on YouTube (Tableau)
+### 3. Trending Video History on YouTube - Building a Dashboard
 In this project, we looked at trending YouTube videos to see what content deserves marketing attention. 
 Tableau was used to visualize our findings and answer these questions:
 - What video categories were trending last week?
