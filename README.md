@@ -12,7 +12,7 @@ Our client is an online store that sells a wide range of household products.
 
 ### 2. Evaluating the Possibility of Opening a Robotic Café in LA: Market Study
 
-n initial overview of the US city of Los Angeles dining industry is the goal of a market study. Significant changes have occurred in Los Angeles food culture during the past ten years. If the city's major sources of pride in the past were the upscale eateries in Hollywood and Santa Monica, you can discover a broad variety of restaurants and cafés throughout the city now that offer unique and refreshing culinary cultural experiences.
+An initial overview of the US city of Los Angeles dining industry is the goal of a market study. Significant changes have occurred in Los Angeles food culture during the past ten years. If the city's major sources of pride in the past were the upscale eateries in Hollywood and Santa Monica, you can discover a broad variety of restaurants and cafés throughout the city now that offer unique and refreshing culinary cultural experiences.
 
 [Project](https://nbviewer.org/github/Maorisus/Projects/blob/main/Robot_Run_Cafe.ipynb) | [Presentation](https://www.canva.com/design/DAFORva-wFs/RTeBhd9uQToxUsaESPr8Bw/view?utm_content=DAFORva-wFs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
