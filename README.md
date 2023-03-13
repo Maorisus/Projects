@@ -6,9 +6,11 @@ This reop display data analysis projects
 
 The goal of this project is to analyze the product range of an E-commerce store.
 
+
 Our client is an online store that sells a wide range of household products.
 
-The project will aim to identify the following objectives:
+
+#The project will aim to identify the following objectives:#
 
 Identifying trends in customer behavior and preferences in the context of product range.
 
