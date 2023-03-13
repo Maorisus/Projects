@@ -1,6 +1,26 @@
 # Projects
 This reop display data analysis projects
 
+
+### 1. E-commerce Product Range Analysis - Final Project
+
+The goal of this project is to analyze the product range of an E-commerce store.
+
+Our client is an online store that sells a wide range of household products.
+
+The project will aim to identify the following objectives:
+
+Identifying trends in customer behavior and preferences in the context of product range.
+
+Identifying gaps in product offerings and identify opportunities for new products.
+
+Analyzing customer data to develop personalized product recommendations.
+
+Identifing customer demand and shopping behavior during different times of the year.
+
+Track sales performance to identify opportunities for optimization.
+[Project]
+
 ### 1. Independent Case Study: Turkey Earthquakes, February 2023 
 [Project](https://nbviewer.org/github/Maorisus/Projects/blob/main/Turkey_Earthquakes_06.02.23.ipynb)
 
