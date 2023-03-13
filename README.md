@@ -10,9 +10,6 @@ Our client is an online store that sells a wide range of household products.
 
 [Project](https://nbviewer.org/github/Maorisus/Projects/blob/ec89296ca24def9ae941a0eb0891651f50aff71e/product_range_analysis_Copy1.ipynb) | [Presentation](https://drive.google.com/file/d/1BJX9PjovoZhDVTD6fbiQJzCDONjMya6Y/view)
 
-### 1. Independent Case Study: Turkey Earthquakes, February 2023 
-[Project](https://nbviewer.org/github/Maorisus/Projects/blob/main/Turkey_Earthquakes_06.02.23.ipynb)
-
 ### 2. Evaluating the Possibility of Opening a Robotic Café in LA: Market Study
 [Project](https://nbviewer.org/github/Maorisus/Projects/blob/main/Robot_Run_Cafe.ipynb) | [Presentation](https://www.canva.com/design/DAFORva-wFs/RTeBhd9uQToxUsaESPr8Bw/view?utm_content=DAFORva-wFs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
@@ -30,8 +27,11 @@ As part of this project, we collaborated with an online store's marketing depart
 
 [Project](https://nbviewer.org/github/Maorisus/Projects/blob/main/A_B_Test_project.ipynb#5)
 
-### 5.Business Analytics: Yandex.Afisha Server Logs Analysis
+### 5. Business Analytics: Yandex.Afisha Server Logs Analysis
 For this project, we will analyze data from Yandex.Afisha's server logs, orders, and marketing expenses. Our objective is to study customer behavior, pinpoint when they begin to make purchases, and determine the amount of revenue generated per customer.
 Our analysis will ultimately help Yandex.Afisha optimize their marketing expenses by identifying the point at which revenue generated surpasses marketing expenses.
 
 [Project](https://nbviewer.org/github/Maorisus/Projects/blob/main/Ynadex.Afisha_Server_Logs_Analysis.ipynb)
+
+### 6. Independent Case Study: Turkey Earthquakes, February 2023 
+[Project](https://nbviewer.org/github/Maorisus/Projects/blob/main/Turkey_Earthquakes_06.02.23.ipynb)
