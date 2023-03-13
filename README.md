@@ -36,5 +36,8 @@ Our analysis will ultimately help Yandex.Afisha optimize their marketing expense
 
 [Project](https://nbviewer.org/github/Maorisus/Projects/blob/main/Ynadex.Afisha_Server_Logs_Analysis.ipynb)
 
-### 6. Independent Case Study: Turkey Earthquakes, February 2023 
+### 6. Predicting Gym Churn: Model Fitness case study
+The purposes of this project is to determine which characteristics predict churn, creating a profile of churn customers, examining elements that have the greatest influence on churn rates , and providing findings and suggestions which would help to enhance customer service.
+
+### 7. Independent Case Study: Turkey Earthquakes, February 2023 
 [Project](https://nbviewer.org/github/Maorisus/Projects/blob/main/Turkey_Earthquakes_06.02.23.ipynb)
