@@ -2,7 +2,19 @@
 This reop display data analysis projects
 
 
-### 1. E-commerce Product Range Analysis - Final Project
+### 1. Exploring Reading Habits Before the COVID-19 Pandemic
+This project will focus on reading habits prior to the coronavirus pandemic's outbreak.
+
+We'll be analyzing a database with records about books, publishers, writers, customer ratings and reviews.
+
+We'll try to identify trends and patterns in reading habits, preferences, and customer feedbacks.
+
+This findings will be used to create a value proposition for companies that are looking to develop new apps for book lovers.
+
+[Project](https://nbviewer.org/github/Maorisus/Projects/blob/main/Book_Preferences_SQL.ipynb)
+
+
+### 2. E-commerce Product Range Analysis - Final Project
 
 The goal of this project is to analyze the product range of an E-commerce store.
 
@@ -10,13 +22,13 @@ Our client is an online store that sells a wide range of household products.
 
 [Project](https://nbviewer.org/github/Maorisus/Projects/blob/ec89296ca24def9ae941a0eb0891651f50aff71e/product_range_analysis_Copy1.ipynb) | [Presentation](https://drive.google.com/file/d/1BJX9PjovoZhDVTD6fbiQJzCDONjMya6Y/view)
 
-### 2. Evaluating the Possibility of Opening a Robotic Café in LA: Market Study
+### 3. Evaluating the Possibility of Opening a Robotic Café in LA: Market Study
 
 An initial overview of the US city of Los Angeles dining industry is the goal of a market study. Significant changes have occurred in Los Angeles food culture during the past ten years. If the city's major sources of pride in the past were the upscale eateries in Hollywood and Santa Monica, you can discover a broad variety of restaurants and cafés throughout the city now that offer unique and refreshing culinary cultural experiences.
 
 [Project](https://nbviewer.org/github/Maorisus/Projects/blob/main/Robot_Run_Cafe.ipynb) | [Presentation](https://www.canva.com/design/DAFORva-wFs/RTeBhd9uQToxUsaESPr8Bw/view?utm_content=DAFORva-wFs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-### 3. Trending Video History on YouTube - Building a Dashboard
+### 4. Trending Video History on YouTube - Building a Dashboard
 In this project, we looked at trending YouTube videos to see what content deserves marketing attention. 
 Tableau was used to visualize our findings and answer these questions:
 - What video categories were trending last week?
@@ -25,21 +37,21 @@ Tableau was used to visualize our findings and answer these questions:
 
 [Dashboard](https://public.tableau.com/views/Book1_16695774951930/TrendingVideos) | [Presentation](https://drive.google.com/file/d/1PwURkVjxM0AHwOoYGSGKagdRLF38LF2l/view?usp=share_link)
 
-### 4. A/B Test
+### 5. A/B Test
 As part of this project, we collaborated with an online store's marketing department to develop hypotheses aimed at increasing sales. Using ICE and RICE, we prioritized the hypotheses based on their potential impact and identified the most promising one. We then conducted an A/B test to compare conversion rates and assess other relevant variables.
 
 [Project](https://nbviewer.org/github/Maorisus/Projects/blob/main/A_B_Test_project.ipynb#5)
 
-### 5. Business Analytics: Yandex.Afisha Server Logs Analysis
+### 6. Business Analytics: Yandex.Afisha Server Logs Analysis
 For this project, we will analyze data from Yandex.Afisha's server logs, orders, and marketing expenses. Our objective is to study customer behavior, pinpoint when they begin to make purchases, and determine the amount of revenue generated per customer.
 Our analysis will ultimately help Yandex.Afisha optimize their marketing expenses by identifying the point at which revenue generated surpasses marketing expenses.
 
 [Project](https://nbviewer.org/github/Maorisus/Projects/blob/main/Ynadex.Afisha_Server_Logs_Analysis.ipynb)
 
-### 6. Predicting Gym Churn: Model Fitness case study
+### 7. Predicting Gym Churn: Model Fitness case study
 The purposes of this project is to determine which characteristics predict churn, creating a profile of churn customers, examining elements that have the greatest influence on churn rates , and providing findings and suggestions which would help to enhance customer service.
 
 [Project](https://nbviewer.org/github/Maorisus/Projects/blob/main/Predicting_Gym_Churn.ipynb)
 
-### 7. Independent Case Study: Turkey Earthquakes, February 2023 
+### 8. Independent Case Study: Turkey Earthquakes, February 2023 
 [Project](https://nbviewer.org/github/Maorisus/Projects/blob/main/Turkey_Earthquakes_06.02.23.ipynb)
